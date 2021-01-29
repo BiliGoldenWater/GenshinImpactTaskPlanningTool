@@ -1,4 +1,4 @@
-package sample;
+package indi.goldenwater.genshinimpactplanningtool;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
